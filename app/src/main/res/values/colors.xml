@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="lighter_red">#F00</color>
+    <color name="lighter_green">#0F0</color>
+    <color name="lighter_blue">#00F</color>
+    <color name="lighter_yellow">#FF0</color>
+</resources>
